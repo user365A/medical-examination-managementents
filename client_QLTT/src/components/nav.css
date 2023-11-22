@@ -1,0 +1,10 @@
+.navbar {
+    position: fixed !important;
+    width: 100% !important;
+    background-color: #e6fffd;
+}
+
+.navbar .nav .list_icon {
+    margin-right: 20px;
+    cursor: pointer;
+}

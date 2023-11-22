@@ -1,0 +1,46 @@
+.manage_schedule {
+    padding-top: 70px;
+}
+
+.manage_schedule .title {
+    font-size: 30px;
+    font-weight: 500;
+    color: #636363;
+}
+
+.select_doctor {
+    width: 300px;
+}
+
+.list_schedule {
+    padding: 20px;
+}
+
+.not_schedule {
+    text-align: center;
+}
+
+.not_success {
+    color: #828200;
+    background: #fff989;
+    padding: 1px 25px 3px 25px;
+    border-radius: 2px;
+}
+
+.form_examination-offline{
+    color: #05ccff;
+    font-weight: 500;
+}
+
+.form_examination-online{
+    color: red;
+    font-weight: 500;
+}
+
+
+.success {
+    color: #00940e;
+    background: #b4ffaf;
+    padding: 1px 25px 3px 25px;
+    border-radius: 2px;
+}

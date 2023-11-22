@@ -1,0 +1,31 @@
+.schedule {
+    padding: 70px 40px 0px 40px;
+}
+
+.schedule .listTime {
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px;
+    grid-template-rows: 50px 50px;
+}
+
+.schedule .listTime .item_time button {
+    border: 1px solid #333;
+    background-color: #feffc7;
+    border-radius: 5px;
+    padding: 4px 10px 4px 10px;
+    color: #003bbb;
+}
+
+.submit {
+    text-align: center;
+}
+
+.submit .submit {
+    text-align: center;
+    border: 1px solid #333;
+    background-color: rgb(70, 255, 77);
+    border-radius: 5px;
+    padding: 4px 30px 4px 30px;
+    color: #003bbb;
+
+}
